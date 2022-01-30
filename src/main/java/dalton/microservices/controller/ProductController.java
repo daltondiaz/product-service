@@ -1,7 +1,7 @@
-package com.example.demo.controller;
+package dalton.microservices.controller;
 
-import com.example.demo.model.Product;
-import com.example.demo.repository.ProductRepository;
+import dalton.microservices.model.Product;
+import dalton.microservices.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

@@ -1,6 +1,6 @@
-package com.example.demo.repository;
+package dalton.microservices.repository;
 
-import com.example.demo.model.Product;
+import dalton.microservices.model.Product;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 public interface ProductRepository extends MongoRepository<Product, String> {
