@@ -1,4 +1,4 @@
-package dalton.microservices.model;
+package dalton.microservices.product.service.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
